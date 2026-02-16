@@ -1,4 +1,4 @@
-# Gojo Satoru Portfolio
+# Web Programming Final Project
 
 A high-performance, visually stunning personal portfolio website for Gojo Satoru, built with Svelte 5 and SvelteKit.
 
